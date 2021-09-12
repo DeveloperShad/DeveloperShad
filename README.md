@@ -1,5 +1,6 @@
 ## Hi, I'm Anwar Shad 👋
 
+![The San Juan Mountains are beautiful!](https://github.com/satwikn07/satwikn07/raw/main/Images/display.gif "San Juan Mountains")
 
 <!-- **DeveloperShad/DeveloperShad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
