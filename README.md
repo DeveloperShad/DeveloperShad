@@ -32,7 +32,7 @@ In 2020 I have completed my graduation in B.Sc and turn my career into coding an
 <ul align="left">
   <li>🌱 I’m currently learning full stack web development.</li>
   <li>💬 Ask me about data structure and algorithms ,Javascript ,React ,MongoDB ,Express JS ,Node JS</li>
-  <li>📫 How to reach me: <developershad876@gmail.com></li>
+  <li>📫 How to reach me: <a href="mailto:developershady876@gmail.com">developershady876@gmail.com</a></li>
 </ul>
 </div>
   
