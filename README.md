@@ -1,16 +1,18 @@
 ## Hi, I'm Anwar Shad 👋
 
 
-**DeveloperShad/DeveloperShad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **DeveloperShad/DeveloperShad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-My name is Anwar Shad and I am from Araria Bihar. Recently I completed my graduation in B.Sc and now I am a full stack web developer and passionate for web development Strong in Javascript & React Interested in learning different programming languages associating with a reputed organisation.Excellent team player with great interpersonal skills.And looking for enhance my skills.
-- Follow me on [@twitter](https://twitter.com/developershad)
+In 2020 I have completed my graduation in B.Sc and turn my career into coding and now I am a MERN Stack developer Strong in Javascript & React Love to convert the ideas into reality with my coding skills and want to associate with a reputed organisation.Excellent team player with great interpersonal skills.And looking for enhance my skills.
+- Follow me on [@Twitter](https://twitter.com/developershad)
 
 
 ### Connet with me on
+- On Twitter [DeveloperShad](https://twitter.com/developershad)
+- On LinkedIn [DeveloperShad](https://www.linkedin.com/in/developershad)
 
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,5 +21,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
